@@ -1,0 +1,17 @@
+{
+  "name": "snapper",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "author": "Jean-Charles Sisk <jeancharles@paypal.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^2.14.0"
+  },
+  "dependencies": {
+    "core-util-is": "^1.0.1"
+  }
+}
