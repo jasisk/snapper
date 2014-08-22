@@ -12,6 +12,8 @@
     "tape": "^2.14.0"
   },
   "dependencies": {
-    "core-util-is": "^1.0.1"
+    "body-parser": "^1.6.5",
+    "core-util-is": "^1.0.1",
+    "express": "^4.8.5"
   }
 }
