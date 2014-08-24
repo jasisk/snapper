@@ -1,3 +1,5 @@
+'use strict';
+
 var utils = require('../lib/utils');
 var test = require('tape');
 
